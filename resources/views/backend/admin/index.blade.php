@@ -6,7 +6,7 @@
           <div class="row">
             <div class="col-md-12 grid-margin">
               <div class="d-flex justify-content-between flex-wrap">
-            <marquee behavior="" direction="left">More Features to be added ✨✨✨✨</marquee>
+            <marquee behavior="" direction="left">Work in progress !  ✨✨✨✨</marquee>
                     </div>
                  </div>
               </div>

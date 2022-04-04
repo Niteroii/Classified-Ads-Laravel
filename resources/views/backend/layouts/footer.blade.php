@@ -2,8 +2,8 @@
  </div>
  <footer class="footer">
         <div class="d-sm-flex justify-content-center justify-content-sm-between">
-          <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">Copyright © <a href="https://github.com/dave-k-c" target="_blank">dave</a>2022❤️</span>
-          <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">fork me on Github <a href="https://github.com/dave-k-c/TeamProject-3.1" target="_blank">Github</a>dave✨✨</span>
+          <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">Copyright © <a href="https://github.com/david-chemwetich" target="_blank">by davekc</a>2022❤️</span>
+          <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">fork me on<a href="https://github.com/david-chemwetich/ads-app" target="_blank">Github</a>Team project✨✨</span>
         </div>
         </footer>
         <!-- partial -->
